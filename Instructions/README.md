@@ -92,6 +92,8 @@ You are required to submit the following:
 
 ## Technologies Used: HTML5, CSS, and BootStrap
 
+### I set up a portfolio website with an about me page, a page to contact me, and a page to display (future) projects
+
 I know that it does not look very good, I fell a bit behind because of the surgery I had on Tuesday and just wanted to make sure that I had everything to work before worrying about aesthetics. I am going to have a tutoring session and come to office hours to work on fixing the style of it.
 
 * link to deployed application: https://fbuonojr.github.io/homework_2/
