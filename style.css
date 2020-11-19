@@ -17,3 +17,7 @@ body {
 .contact {
     font-size: 30px;
 }
+
+hr {
+    background-color: white;
+}
