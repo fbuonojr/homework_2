@@ -21,3 +21,8 @@ body {
 hr {
     background-color: white;
 }
+
+.projectPic {
+    height: 500px;
+    width: 500px;
+}
